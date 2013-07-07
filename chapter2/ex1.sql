@@ -1,3 +1,4 @@
+-- Example 1
 -- Write a query that returns orders place in June 2007.
 -- Tables involved: Sales.Orders
 -- Desired columns: orderid, orderdate, custid, empid

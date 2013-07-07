@@ -1,3 +1,4 @@
+-- Example 3
 -- Write a query against HR.Employees that returns employees with last names
 ---	containing the letter a twice or more
 -- Tables Involved: HR.Employees

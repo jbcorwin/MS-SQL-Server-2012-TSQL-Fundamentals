@@ -1,3 +1,4 @@
+-- Example 5
 -- Write a query against Sales.Orders that returns the three shipped-to with the
 --- highest average freight in 2007
 -- Tables Involved: Sales.Orders
