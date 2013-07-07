@@ -1,0 +1,1 @@
+These are the answers for the problems from: Microsoft SQL Server 2012 T-SQL Fundamental by Itzik Ben-Gan.
